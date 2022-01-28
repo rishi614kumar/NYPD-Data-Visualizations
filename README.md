@@ -21,19 +21,19 @@ Simply download the .ipynb file and run in Juypter.
 The following are a few snapshots of the project:
 
 ### The value counts of of each complaint in NYC
-![image1](images/bar3.png)
+![image1](https://github.com/rishi614kumar/NYPD-Data-Visualizations/tree/main/images/bar3.png?raw=true)
 
 ### A count plot to show the distribution of calls across the week
-![image2](images/bar7.png)
+![image2](https://github.com/rishi614kumar/NYPD-Data-Visualizations/tree/main/images/bar7.png?raw=true)
 
 ### A count plot to show the distribution of calls by hour
-![image3](images/bar5.png)
+![image3](https://github.com/rishi614kumar/NYPD-Data-Visualizations/tree/main/images/bar5.png?raw=true)
 
 ### A box plot to show the spread of calls for each crime by hour
-![image4](images/box1.png)
+![image4](https://github.com/rishi614kumar/NYPD-Data-Visualizations/tree/main/images/box1.png?raw=true)
 
 ### A heatmap to show the frequency of burglaries across the city
-![image4](images/heatmap1.png)
+![image4](https://github.com/rishi614kumar/NYPD-Data-Visualizations/tree/main/images/heatmap1.png?raw=true)
 
 
 
